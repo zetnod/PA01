@@ -1,0 +1,15 @@
+/**
+ * Customer Class.
+ */
+public class Customer {
+  
+  private final String custNumber;
+  private final String tin;
+  private final String last;
+  private final String first;
+  private final int margin;
+  private final boolean drip;
+  private final boolean futures;
+  
+  
+}//end class Customer
